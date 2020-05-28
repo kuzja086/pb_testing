@@ -1,7 +1,7 @@
 {
-  "ScenarioFolder": "U:\\Козинский\\Git\\testfeatures\\temp_feature",
-  "ProcessFolder": "U:\\Козинский\\Git\\testfeatures\\temp_feature",
-  "ModelDBSettings": "U:\\Козинский\\Git\\testfeatures\\temp_feature\\bases.yaml",
-  "LogFile": "U:\\Козинский\\Git\\testfeatures\\temp_feature\\feature_log.txt",
-  "FeatureFolder": "U:\\Козинский\\Git\\testfeatures\\features"
+  "ScenarioFolder": "U:\\Козинский\\Git\\pb_testing\\temp_feature",
+  "ProcessFolder": "U:\\Козинский\\Git\\pb_testing\\temp_feature",
+  "ModelDBSettings": "U:\\Козинский\\Git\\pb_testing\\temp_feature\\bases.yaml",
+  "LogFile": "U:\\Козинский\\Git\\pb_testing\\temp_feature\\feature_log.txt",
+  "FeatureFolder": "U:\\Козинский\\Git\\pb_testing\\features"
 }
