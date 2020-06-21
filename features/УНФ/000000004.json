@@ -63,6 +63,14 @@
 "ИмяКомпьютера": "localhost",
 "ПортЗапускаТестКлиента": "48000",
 "ДопПараметры": "/N\"Мастер\" /P\"\"  /AllowExecuteScheduledJobs -Off  /DisableStartupMessages "
+},
+{
+"Имя": "Администратор",
+"ПутьКИнфобазе": "File=\"\";",
+"ТипКлиента": "Тонкий",
+"ИмяКомпьютера": "localhost",
+"ПортЗапускаТестКлиента": "48000",
+"ДопПараметры": "/N\"Администратор\" /P\"1\"  /AllowExecuteScheduledJobs -Off  /DisableStartupMessages "
 }
 ]
 }
