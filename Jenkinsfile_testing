@@ -1,5 +1,6 @@
 @Library("shared-libraries")_
 
-testing(templatebases : "pb_edt",
+testing(templatebases : "pb_test",
         sqlCredentialsID : "SQL",
-        base1CCredentialID : "PB1C")
+        base1CCredentialID : "PB1C",
+        projectNameEDT : "pb17")
